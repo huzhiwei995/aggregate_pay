@@ -1,0 +1,348 @@
+2017-03-08 11:33:52  {"productCode":"QUICK_WAP_PAY","body":"购买测试商品0.01元","subject":"测试","out_trade_no":"201738113347698","total_amount":"0.01","timeout_express":"1m"}
+2017-03-21 11:58:29  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 11:58:29  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 11:58:29\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'euk/dk8UY+McOJ9ot1QwEj38uEEg32RUlMXvJldyUikN98w0JXM2g1/2ed6sEomnArnLLdw/44ElbJ9Olvne6gofDmLoLoyIpqvHjTweQdGFn28zM9N71L3tgjA4CD2+ht95DtW2xoUK/6rssAx4TBgid7EIDnMQyb8IXTywdHxOrK1ZpPaRKhFu5aFgOLj3zRP7LxsAwJDThIAWUXSnfSh9vEIPmkJweR9T0JndeAKsn90TWoPPaY6aZRcbH80vAND8OqA9Vp35aWMWd2BPdWFVHLkh0Oe1VynXKodBuaMnCY8HhTJL5P3ykcgXHPHidSIa+Nkq6Zg5/DFx+R5Gow==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 12:00:23  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 12:00:23  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 12:00:23\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'AqaJuX11Gy409BBmyZOdD7QbBbeYgrByag4wplDnjuEaoB37Y+fUQLQTOZVU0m2aDFcaZv9VM4QNwbnq/Jr0LCuU8GHUYlS89LHR6nF1nT9IsjGBzfml1UTW3L831Ijx6wVL9C9H6//PAmaUz4gUuSTTgIiUIfV2xqE9mFegRGE04HjJOnJWA7iN4YK9HIttIVNmw184+Ubb3/3lJKPFLLM7ERcMK2gCJcGJGNwsOkvg2rc14ABe58kzV/k5cSJEHpP7I1JaJWvY94c87CDrDs4CquE3hXMzTaIHEAWN6zS0oyDauUwurwG0fcyZIESl+PecigXcT01ehPEwJrq5Jg==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 12:01:41  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 12:01:41  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 12:01:41\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'sM8z+6OBb8ynDj11pWDV4AF1HPm+THqzT8URd7OedfukuYh0Mwxr56BLi+vVhFwpm7ZRtOC4PniL85i0EfZ6IiFfOg8pgX/csgHoWwRDUvlb8AZ/IWeM9HcXu8WTgc2Z1h6cUdQeNeAfh6xWkTNhnnvK3Q5tCkFm8B2ncld+pLoCfGXB3wqVUzaKa1k8cPPbsaVt6v0yX6IbLgiMQz5qy9Po/70w+OnZps6IZrG0AQ1Kjc0Lb/FNbQdAZ3s3uJvwAscIpQ2uFQe78KGuOyvfeSgyvr7l+RcTk9nEwBzUtYwwf752aldxXJc5CrvpXCLNqwkrWkbpqNAXlsPvaYGgTw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 12:56:44  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 12:56:44  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 12:56:44\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'NJWb5vZyzt/csRIxz69rLqUb7oq3a5hXFm1S+PObjxEmi2Nwg3Uo3S9IOxOetpCrZCJFk6DTwkygEVxrMBHcTnFvBHkN1TfmqgUH/E4c2prRSoIqtxaJ3OcU7IvZOr9OKf7WqIo80SL4pQIpgAVQRuft4XaLuQvLzzEIJOc/k5gap2+JHEljHutuulQhf/kGPGAr7+LwqKgbTnfUJ/aNMYzTuCGiNlxMzS1za1wh/12i24F0dsf5U/ArQbp4GADszBfDTBJEG1VZ6rBSUBBsvhsqE0015m2He6qlv4FwezuPnCSNf+NT4c1lD9DzsI4TH1luJrb9t2hoYEDHMmWvLg==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 12:59:36  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 12:59:36  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 12:59:36\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'RwJUT/ppSrm8Oi4/HBE6/XTP5B87HlAewMMFPWRvACZvY/2K6lIxHSeti+AYKYC14yJPI/RrEZGftlhpMy/ztgwbGhRqqKoSdRU88Jlu/OKXf5FouEavNimSZ2TUiY9cGMXNmLHZrh1bVbaFYfhduqeGeFGGmpTNfKeX3BGwv7AZ9cP3K6SfmAegJ4oBi6mvW2r7OhTRWBocfJIma0c8Ggl8v8yjNmnSvqxSPqczd5v7pcHIZQWP5tz+ljc3QlivCLdAVpbx0yigl1qW9e6cgv3qZ/xrND9Dvn7piVitKsiqnAX5yvCx55t4wlL8d3nwvptG8X8uU1NNA8wR5N8/2w==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:03:53  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 13:03:53  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:03:53\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'n66vK0AVva5shTOCPvik1I5DogSahoSm/pHdJdVXToiAFDusFYidaIJW6dsU5YoqYaT2McqP/qtNVlxplajgJdla4rJodEc7OLReCM7ZikXZm9/Zg1fcz81Moqv53RPt7E0deZ4bd5NWmwLg+a/NhV3eGaIn7Vpu+VETIGMfbXYjpqYJ5OeG56gGWJmlSByLDMpKpKqErqvJ5OX3SY5WUb9V6fcmh67xDUEAaIBDTltXEiq9YoRPESIfQNhgk4PjDAUXyaCOLIRCi8ianFWjtk4MxokVH2VmYjFd9bsoDN4O4W+OrNBUsJeLEqjqMD6G038oAURsjck5zz6w1W5vFw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:06:50  {"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}
+2017-03-21 13:06:50  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":null,"out_trade_no":null,"total_amount":null,"timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:06:50\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'nQvweRjQvwUHfhMXm1CKVU4mUPqqvx/K0L8oZloh0hHPllZeGnh92+KZV54MtlLH1yeMraH1IJTPNC5chN49GlxrBwH+0uES5jyGHqd03sW5mQXqapGKE6SqQEgeWyrJ89vv3uulJi5+w/vyE5rDljFh4IfYnuAXtZDA0qDC7n2fHoIgqfq6iIBxnvZAg/rULmFFXbafW1qpfY+SsBX/felZ/lDZ9oMYzNWDtdXfPbx7yNYS6dcelYh5/kTGIv/nCD2I35/56smM6FBrEmb+ierXJKREZqsmQi0vY7BVKn5BCjAckTz9Obdd9aC/sZuLkdSvVvNy4UP0y15fqdRbvQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:11:06  {"productCode":"QUICK_WAP_PAY","body":"","subject":"娃娃鱼","out_trade_no":"234234234","total_amount":"10","timeout_express":"1m"}
+2017-03-21 13:11:06  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"娃娃鱼","out_trade_no":"234234234","total_amount":"10","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:11:06\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'Y8G4lXhnOPnrK/pc6jgM5gIF9MGaWH8n1PNwJvuuQ8LJd0dzvWdm8Ke+bqwdb/YDD1lNZfwrd6cbjBFTif0l9vsFaAuI28XsuN0hIa9DMfRRw7Chm8uRiii/a2/b/9dT1g1MNnMfYyY448eir6fGRdmu+5T+waVrvXVRQatB+lTZ+C6hgdcqP7DmCDo9VrB7ItmvVBOM0RtuwG9r25MtGmgByoB7M3PPJYrMlBPAEXnXikCSZ9wsmHMpMH3jjzmgdxkk14GR4oz/JXCUuFaNd1QTSslISjMgpguNslupqlUX3tQuWCaYjZqmdntBEVepOKzGJR5sGhLsFwP1b9vTVQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:11:30  array (
+  'total_amount' => '10.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200163782',
+  'notify_time' => '2017-03-21 13:11:29',
+  'subject' => '娃娃鱼',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '10.00',
+  'out_trade_no' => '234234234',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:11:27',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'InFoHKcff6s/MhHIeJ+o/RzyrvSKyZU9Q0u7f2D9oHzE4NsrQH3fz5RrYduqLAK5unGLL42OEEBRYg/UeobfNRMxaeZuCwQcxtzUxjjNp+9mNa4RrQwfeJ024/ouogcAESYcnedV8Z4j53sFd/7EfGd3Pr/3vmLB5oquM881cLuuFsM5kXqrG+NB+0H7W6sm4++yCgevUZL6GoXj0fhdzRFUM8ht9BwG/TY/Iv7/bpjt82nyI9e4g/PEEBr9KGI8gJkaKWzzZtsvGonnjjXf2ZbzMF34aWKLW35M9pgeykhaSD+mTIJoSFxWpKSB9nuCM7o7qLOTKHZ4GR9Qn+bREA==',
+  'gmt_create' => '2017-03-21 13:11:26',
+  'buyer_pay_amount' => '10.00',
+  'receipt_amount' => '10.00',
+  'fund_bill_list' => '[{"amount":"10.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => 'b69ca3982c9defae53d48c5abbb1c6ehuq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 13:12:59  {"productCode":"QUICK_WAP_PAY","body":"","subject":"huzhiwei","out_trade_no":"128419868","total_amount":"10","timeout_express":"1m"}
+2017-03-21 13:12:59  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"huzhiwei","out_trade_no":"128419868","total_amount":"10","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:12:59\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'jD9+ZWiL7Icr+FTZWo3GTUnIghC6prBan8RpfWyPCmUfgTs8f84oCyO/8jiVOkl+4fU8L4cDBzMWLXNdImPRSry5ug6XlO5a0mtVa4teMCoIb0vAy2SDTGTxLmzmmwGmYwdUImSpsXOZ0FrhZuOTbcrt7VYXkPoEomEirUgubOjKM0qh9bRt+lWR6Yvkkd/rWjNLLB2MhQl9rujaGN1BRU5Vb0S+xp/yupddrtqT8oDLx9S6IPEi7hHghmvEHkbuP2ypzMP9kAo4dqLY7vZes2aQcjUn44IOYhpuA72e0MxfEeR/JdZh7JMrUGDj24fNd8EOkUNhnJDOedKBJQa4rw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:13:14  array (
+  'total_amount' => '10.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200163784',
+  'notify_time' => '2017-03-21 13:13:14',
+  'subject' => 'huzhiwei',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '10.00',
+  'out_trade_no' => '128419868',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:13:13',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'qheUQ8kVTpD1bCkpMSBrxj4sp8HZaprQGezFvibyAeBXtnwEta4bBCJSYjwmnZ4vL2Bamf2skrZHPM9v6Vwt6WysVp7Kafou+TzbGKBcYes3OZ3+xXxnJAQYLFlAIZW3/qGTalVARwlbgAK3dobeJs6M1YYLPo3nP182UMYTqv1EwvDL0QeeB5Sk1vdaD283KfUJoZ5hVeBp7tvOyNIwLPnnxyIZP35WI5v5CufDFabC3s8VKBKSO5pQnzOl/ZjRGF3pnwlGGcDjQX2W5+GKkOQdjE/QxpixsES8h+HBLHC3SVoAqmUv5p/3HqSa/GU47vePx3afM7rK+1X7GvkEyw==',
+  'gmt_create' => '2017-03-21 13:13:11',
+  'buyer_pay_amount' => '10.00',
+  'receipt_amount' => '10.00',
+  'fund_bill_list' => '[{"amount":"10.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '920c22c0f2b8d62010cee25e5195384huq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 13:13:51  array (
+)
+2017-03-21 13:14:04  array (
+)
+2017-03-21 13:14:19  array (
+)
+2017-03-21 13:15:13  array (
+)
+2017-03-21 13:15:35  {"productCode":"QUICK_WAP_PAY","body":"","subject":"uuuuu","out_trade_no":"090778756","total_amount":"2","timeout_express":"1m"}
+2017-03-21 13:15:35  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"uuuuu","out_trade_no":"090778756","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:15:35\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'TfUaSjPqzlJVE6iC2wXHGatsXn9/eGfVKhRNNTN9XTIAtmhlcxn27USd7lysPqapFuih1Kxt2yJ5bQDYbYl60P0k1NPIqZEm5SAJ8ikyGlHNreuLGJXa8pHLXzRl1wFvq4/oyUbZVpLVvf814iAo/Rltao2iF8K9gbdp3ork29hRzSGS3WJvUlwi7FqNlnGVql3uGX9L11rB+63MU7hG87vWg66oeU7oybSVgD17WHSvkp4eV+A+JgYmsVXGfZsTL7/Yg+sq5gyElUlsiCuyMjQWfgg5VxPt3pz/GY6+83bogkL9D6ISB+IdE2dePTnzp2ZKXOsgp4olIdKMXuytMg==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:17:32  array (
+  'total_amount' => '2.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200164113',
+  'notify_time' => '2017-03-21 13:17:32',
+  'subject' => 'uuuuu',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '2.00',
+  'out_trade_no' => '090778756',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:17:30',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'KCRK7f1wAyu3tqo4litT8aalNiK8HD/EfRNGCy3seUWGDD9E0EZBQ6BBNqsPOYWhGblZ2iCzgGxu1QN6YjL9T7CkW8RbDOyzXUtKwlz3z2EzL/NmLHvRiPevIReYbb9EhrjA5S5ubl4xlIrCfXB7S1G0G3SilVOZtC5Pd4g8IMpSkfajmKyu6Q1BIDhqqP8wUm5uXtDOjH9KTA4LN+2/NY9hk//zgbJE+hcNmdloSMiGkidGVnWVnNiU525WPLpe+EWEazXTxa9j9Bv6JGPHIT8fO9b7eYwGfBAsCJ4WfZxIdcOHSxu3KexZpN8CTuc++plD+kam3n9g5LLFkPV5YA==',
+  'gmt_create' => '2017-03-21 13:17:29',
+  'buyer_pay_amount' => '2.00',
+  'receipt_amount' => '2.00',
+  'fund_bill_list' => '[{"amount":"2.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '6835a7cd821d1c4c0fdfe2087251cabhuq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 13:52:07  {"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456`","total_amount":"2","timeout_express":"1m"}
+2017-03-21 13:52:07  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456`","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:52:07\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'cSOBi4Arw9F8ml1SGKBbcEV667FVHCS4u1h1QmI8Mpg/mSi7rQYe8W540gPOTY8DJI1JMFp/s6p17ckxlxd1KY6NgDUaLQMjKtlFqo8x2oErxzHM2IDbo+qb0mpYsgctSELKXadUCVEG+sFfwpplLRtWq9kF3vLV3Qgo/HpG61EdigU8KKyw8CZCh3yaf1dewvHJOqTcrBpVp11TWdGpyD9TQ8T8doBEeLpFYvipwIcYUcazWijf0uh+CHkeRrA5W72P3DZ7gXzmP+SSEfm+BxwI3/nQHsaZNOpB0HNmSRK0E/wqFJjfLm6eAZxueLDPnouTVaz6dTFEKnEmBu1lFQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:52:23  {"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456`","total_amount":"2","timeout_express":"1m"}
+2017-03-21 13:52:23  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456`","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:52:23\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'aBe85LqJ4gB1qZbhDVhbIFKvkodLo506YuoZyLjCjdki6nRU6uy1pCvUWX+KZiGZlotlyouYog6pDL/IIVADbfmDZCuin82KO9cGZdaKLCmAdgqfIYoNbrKeLRL4bu6Ynboe7CRfAvtvd6nrl/QYyOFg0p9InUFkkTxYEUztUQ5cPaPVGofooCerwgtu2AZOIkITWIsv4tNdJWuwB5K9wSmdlUH9ZIi2Dx5xXayBWhlChxqAhjzww2DnB5RF8pTM0Qyfg9ugLIOEbrfeXGj8isin8I4WfIMcG7rwqkHjLSqrxnKZrH/KbcX1qJ7VJVmg1hfEJ5d5cUDW5+qkzxIK/g==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:52:27  {"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456","total_amount":"2","timeout_express":"1m"}
+2017-03-21 13:52:27  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:52:27\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'b9QgJjSOvAVbDryYlwkG1mMPvzTiXccWnWw5GB3inJSQO7SI5KZsiPYGoZNjsxx01PkiypC3iC+k5bAPmoDk1wGUOWB8/1vP+KCwoc1PAm2FxswgvKa9frvGeir+SmB+ompCbH4AKaeCDgVmJe85twBOwNfKVXWp3fLOpwNw1Cm2Te9f6nf/jVH5ydrnmeNOReRx1nhTDBPM9HspyGRDZpfrq87SEVXskC6JjMkMCHzN3AZvAGBsjpNs0E/WlQczEbKtNqu7AxEshcY7MRIL1qSK6DXoLKJ2wL5p9uc9UEwXGY+BgW1EcQiUenklKCuDSxBtkGJaP8eGjkjTFuN8pw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:53:47  {"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456","total_amount":"2","timeout_express":"1m"}
+2017-03-21 13:53:47  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"panpamn","out_trade_no":"567456","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 13:53:47\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'Y6hAK2CkLrUAKod9lgqY0sU2RCDkMeI0vaaJLfBoYwstoeAuSqbO3qDaH7ALVwnmGeqcVQg5IsSW5U0r6qHsTZNfYt5Tg0O9qbC8wm/u2jMj8e707UTVnp63ypHb4QTCMJZeTSS8c/C0kKFM8nOQHuQgJ1RP4/u8i8iP8gQfno1xK63NPSIfhZuMipg4sBVbK44vGHjSDye1Fz7JQmTROfSJm8ISzJdZNjxiUJV15FRYcFBrsLEv8wx/NbxF8Zdh4HiIVGTeGl/qZDsPP630fsXVWfX/WFBskirlpGB51s+Ga4xRhEsxeX/tMqVgPoCiSto1znvfl/7vfIec7z3OBw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 13:54:08  array (
+  'total_amount' => '2.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200163785',
+  'notify_time' => '2017-03-21 13:54:08',
+  'subject' => 'panpamn',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '2.00',
+  'out_trade_no' => '567456',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:54:06',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 't6gs3lErMhzziTNUyttZQPf0UGoyD+urs1n6iVNtfNnW01iVKuLyhS8QIaCxwVL7ES6tXsm6jMiMYYXhcQNmkSzmUFLdLoSDja4RzNR57tuXOPbJkoDt+BVQBGgn6QjNQyXidfAK9bC3aEeWqMEN1ebguIVhjNh1ejsRuokrf4McvyNufYMsjmxbxuUuXdvi81nBUPPIOAeguFnL8YAjmmh3asOCAUTYNEtWXSOCwyutGXR71Wq4fo/DtW55DZtNY5PVkG8rQ6VdQnGaTC7leIs1sFySQi2SjxTOZn3tfjDMIBTYy9bFsI2q3ZgGVM31hLMHRzPB8KxMjoMeDTv6uQ==',
+  'gmt_create' => '2017-03-21 13:54:05',
+  'buyer_pay_amount' => '2.00',
+  'receipt_amount' => '2.00',
+  'fund_bill_list' => '[{"amount":"2.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '1ece4ac7293fadfc6e1d293d12ca386huq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 13:58:17  array (
+  'total_amount' => '2.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200163785',
+  'notify_time' => '2017-03-21 13:58:16',
+  'subject' => 'panpamn',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '2.00',
+  'out_trade_no' => '567456',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:54:06',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'RWC5qTeocUXO+6eSc77U641oUOke/j6fLjfOZG5iAKuEZA45iLq/T2fiR3AWYFGINkX7M4tww0L+5KSoQVq7j2fZ7BEc55hfwbSbliQaWBWvE2hydco/ED2u3lqxTimzBryHByzooiU1N2Me7H1lbqrS6+uayAiUyEpHelWqJUZqYoqqS0l3hPQ8+XuFL79rbSR8iDVrvcOvJpk+0A2anBOR/+/a6CAuEeI8LXvidUzRzmCn6DSi5T5LmrDBCUAg+ZD+haNV50Lnts2r9vShKgJ4hrXga2QGOiVNkIRGXwWqu+cle4Sy+HEXpp+D5KFfdETW0p7iOgluHQMM9bLYbA==',
+  'gmt_create' => '2017-03-21 13:54:05',
+  'buyer_pay_amount' => '2.00',
+  'receipt_amount' => '2.00',
+  'fund_bill_list' => '[{"amount":"2.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '1ece4ac7293fadfc6e1d293d12ca386huq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 13:58:20  array (
+  'total_amount' => '2.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200163785',
+  'notify_time' => '2017-03-21 13:58:19',
+  'subject' => 'panpamn',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '2.00',
+  'out_trade_no' => '567456',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 13:54:06',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'pRIRv116Z0k31vyCvJEDRmq8rSl9ZGAbLXq7/UyUxam6TK7m9fY7P/4XWD19uD2OxyA78ns3uWONCJ3Hmm78oWfOBiUeY9s8s4rbl/SowyCcZB5WL2SyKzApKJdPwodwUvgvafw48RAM9JcdiPr9mTf0FaSm0RQITpf5V5EA75bRZHHM2dog2sjSEwsmpNgzpb7zbemJ+l4H+l5RmPg6BzNI1SIRmAzlOiIcuZSyMaFDk3AIENRYTpa0PEjStgpCTLNCMUgb0bLyU2xzHq1m+LAPc9X2wQpgsoAdoFo/FvtBb/HRO+alOzasQNPtN8LlVYAg/nqxkK1LE9JxsXJ6Sg==',
+  'gmt_create' => '2017-03-21 13:54:05',
+  'buyer_pay_amount' => '2.00',
+  'receipt_amount' => '2.00',
+  'fund_bill_list' => '[{"amount":"2.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '1ece4ac7293fadfc6e1d293d12ca386huq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 14:01:49  {"productCode":"QUICK_WAP_PAY","body":"","subject":"见色起意","out_trade_no":"64826568","total_amount":"10","timeout_express":"1m"}
+2017-03-21 14:01:49  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"见色起意","out_trade_no":"64826568","total_amount":"10","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 14:01:49\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'QonRmx1RNWKFgvWXx9DvsvXAoeGPO0CvsVGIxr5AC9RWnZ2pdrdgqc7EG2ABZcD1BKIIy3YtR5KuUttnOxbjYp16cUxOZJDG/kXtVh4o9GXOGPlGCDlCrMA3GwnK4oR5aMqJFs08755vFuS8jSHyNgQ83tfreIooIKCSxQnn8+SJyPGcql1oeryAV57f+CeQm/rklIHcWXI+IU2nxFCHBpqqWFRwVsKj674Q2YvSANCv/WGiZMVGxDnyU7KTwap33jGI88D2y6FiTN2oThS4cA65emrYlYb3O7eAC2VO8MJJNHnC82/4noEKN16vgCvZ/JIp505ZtkoYR7PS73pSYg==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 14:02:33  {"productCode":"QUICK_WAP_PAY","body":"","subject":"见色起意","out_trade_no":"64826568","total_amount":"10","timeout_express":"1m"}
+2017-03-21 14:02:33  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"见色起意","out_trade_no":"64826568","total_amount":"10","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 14:02:33\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'J3b2U6JSHowIxZm06d4dCPCCrX1fKMfzt0fFB6Y4whmp9pF2NvVgErA9YXOLCWq354rVslNAy15ye5i4ZAEab0wHQChnEDabSxGSuZUrdqwoZnrH+fD3tRNzC7qoGPTzjXraIeg2rRfZZpc19C0vSFgK0dLc9zdBpW6ZH0cpq1qP7T7zcZSCo/WAXiQAYdpEAUFf9vclJF+CEjReHuWg4dphczG79hCy+JBSEu6Ax9P8x6ySAZvEv6m07FasON604cK6v1yZ2h9liRzNDq4OsyYv4fKzVfB8pKuJfKE4EyXh36XAzfcSkyslLWzlDHjy93OWVdf5FyfzhbUIKUeCaw==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 14:02:45  array (
+  'total_amount' => '10.00',
+  'buyer_id' => '2088102171379670',
+  'trade_no' => '2017032121001004670200120638',
+  'notify_time' => '2017-03-21 14:02:45',
+  'subject' => '见色起意',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'rmu***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '10.00',
+  'out_trade_no' => '64826568',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 14:02:43',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'a033RsB8z8tt0NWEN/3dmoT/STd+MnxIQIQM3oGmAzaJm+YmDovwjDegHw27xfReNeLm+t9+1Mj3Qb/GxWC6kM3cf/XSe+A1VsB8TVEF7zBqLEFDSuswTMxRNQSCDh17+b/sRnHGdVd2mtdHtXOziM6BtVNt0ZNd0OUOny5l7fx17opoX2UvGZqdxgmIJuabmvpf/M4dYDSJlzGvFCmJmwa9Bpenc+FbWEXqld1G6VRkeseyRAF6S3tob5V/lHPDBWyFoCCet/2JZADxKJ6XEkCMxX1CZtoayFmhcfVuxk0jwIQYjl6E7C0bLO0T+03eua9uRf9yUrqi0971xR9/GA==',
+  'gmt_create' => '2017-03-21 14:02:43',
+  'buyer_pay_amount' => '10.00',
+  'receipt_amount' => '10.00',
+  'fund_bill_list' => '[{"amount":"10.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '2c5bb921c226e5c56cb1255e234767al66',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 14:03:28  {"productCode":"QUICK_WAP_PAY","body":"","subject":"1334","out_trade_no":"123467519","total_amount":"2","timeout_express":"1m"}
+2017-03-21 14:03:29  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"1334","out_trade_no":"123467519","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 14:03:28\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'TC0y4hfs+5GCujmV8QJDi1/1GmashrdP9ssbr+OPSOr5yY8Y/J/CohTJbBHBLxBTWFdXRciump9/3V+MaGRuWc896woXK6Y15bxh2BAnJmwGGU7DGQYfGpJYyX9RMQvNz2V+3pwV0OHqR77MEhGaNtjiTTAOooZ8qM5euUCmUSDdDGqdFM65qgF03LlYW8mjQhWFnjV+9zsQsnUyZC5IYH/xpZ6SQXoHP1kNGuAfx1gyvt+QRfGMSTKInmRw4IRHS3nJ3jjoF0TcZq8tqo1SwdG3eA3qLxXsKqxFT8F8s4v/43U2SF8If5zHksxM1d/VNJ26K9eqQdqhYiuIGWl9nQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 14:04:15  {"productCode":"QUICK_WAP_PAY","body":"","subject":"哦破MP5","out_trade_no":"676545","total_amount":"10","timeout_express":"1m"}
+2017-03-21 14:04:15  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"哦破MP5","out_trade_no":"676545","total_amount":"10","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 14:04:15\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'OQSNfxRJggST6Gc5+N0aHneN7fSJbo5UxA+z5DSwL3nV3xB0OEg029pJP2a/s36Gqa1d5swPISEDUhAkHDqZWoXSXz3KBcaNQXGx46/cARpK5HakUm2o1/v3wznScgNzrzcYjD9/fefaIpw3mpmyKsCb0nif5h+9dLUaAYk/QgXQqrlL0Qpf/9I1mWF/BCr+QBSpoX4pO5rgYt/jf7HeNKkZs328vNeNjcJjc3odiw15o3xgr6RJ/oVnG4Uql16u6hL51oXaDHz9YJGNOUZbTrq1GREQZVHJ9oiwrE59B88b0sFUeXnIISRzKQBA8+PBQYU4FVmnheNNGDanqJj+XQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 14:04:24  array (
+  'total_amount' => '10.00',
+  'buyer_id' => '2088102171379670',
+  'trade_no' => '2017032121001004670200120639',
+  'notify_time' => '2017-03-21 14:04:24',
+  'subject' => '哦破MP5',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'rmu***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '10.00',
+  'out_trade_no' => '676545',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 14:04:23',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'ohSRyXowYRidr3jSCbpT355iyepQY0/lcKg2FqJkerO0pbqqfuXArGvR86VeRK8Smd9anE/lj1k/gXFc/iHOg8+BVyHqM9L3+v6MxC1aGomjBD/m/6BddODlJI/a0vLhjATBd95N/ELbMCLyTth8jKf7iW8sHH3gNDhHwy6oh22jUW85QP+21ndEkb+N3U8G0e4KSvCPXqliHnm/HgwuNeSYjNRSY1YTtiWYgdD8tCNaNx4FUiBp4EfbbW730E5p8NC3S00ItQ9TRaoU8KSQNBPJAoqcvsgD2y/dHU0sEcUM4CbW+Uuqo25xwJQDtlgJS7L2+99ddNOmJcTmX7bsPQ==',
+  'gmt_create' => '2017-03-21 14:04:22',
+  'buyer_pay_amount' => '10.00',
+  'receipt_amount' => '10.00',
+  'fund_bill_list' => '[{"amount":"10.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '411da8c7aa8d18b3b481334c4d6c7b8l66',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-21 14:09:26  {"productCode":"QUICK_WAP_PAY","body":"","subject":"阿萨德","out_trade_no":"122352","total_amount":"2","timeout_express":"1m"}
+2017-03-21 14:09:26  response: '<form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://openapi.alipaydev.com/gateway.do?charset=UTF-8\' method=\'POST\'><input type=\'hidden\' name=\'biz_content\' value=\'{"productCode":"QUICK_WAP_PAY","body":"","subject":"阿萨德","out_trade_no":"122352","total_amount":"2","timeout_express":"1m"}\'/><input type=\'hidden\' name=\'app_id\' value=\'2016080300157350\'/><input type=\'hidden\' name=\'version\' value=\'1.0\'/><input type=\'hidden\' name=\'format\' value=\'json\'/><input type=\'hidden\' name=\'sign_type\' value=\'RSA2\'/><input type=\'hidden\' name=\'method\' value=\'alipay.trade.wap.pay\'/><input type=\'hidden\' name=\'timestamp\' value=\'2017-03-21 14:09:26\'/><input type=\'hidden\' name=\'alipay_sdk\' value=\'alipay-sdk-php-20161101\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/notify\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.budaiqb.com/index.php/Home/Index/return1\'/><input type=\'hidden\' name=\'charset\' value=\'UTF-8\'/><input type=\'hidden\' name=\'sign\' value=\'EHuVGOHTHHatmXdia/IC4QuNiEh3onfGT+0SA3wC8edZ/7o2QzkhXw5rXJyNz3ZXrKJKH+QXcSfIcRgljwc/mUyT62kxrJzguAcBCY8p/DyRqCQvT7rfjjYQ6FNFtgDVC+CXwBxhlKz4ngp5OyDirDUY6ekrGl5bVy55DWGmvqjnmN21nrafcY0QU6TIPIj3lyLxovaNA6THFbKW6PWj4+eAzanQijFbvH/KGFHCGFy4CRIIaKpTpnMNgg6Ohu7ohcnm0c5rWbTEe3QhYKJSYFs+AaXmC/1X64ERM94a8uL0asaeI1eLfkCGg9R7vaIPlvM5jJcLHR6tGAO+9ZmrJQ==\'/><input type=\'submit\' value=\'ok\' style=\'display:none;\'\'></form><script>document.forms[\'alipaysubmit\'].submit();</script>'
+2017-03-21 14:09:37  array (
+  'total_amount' => '2.00',
+  'buyer_id' => '2088102171352244',
+  'trade_no' => '2017032121001004240200164114',
+  'notify_time' => '2017-03-21 14:09:37',
+  'subject' => '阿萨德',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'bhi***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'charset' => 'UTF-8',
+  'notify_type' => 'trade_status_sync',
+  'invoice_amount' => '2.00',
+  'out_trade_no' => '122352',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-21 14:09:35',
+  'version' => '1.0',
+  'point_amount' => '0.00',
+  'sign' => 'mQKd7Bi3qpzqZC66K5Ds2nPMxfyNI240Z3moidRxMQe01McTL/p3NBvWBMW8js0oFejfNtDyz7OEn5N2qYpyuVO6mY6iAWunjYpDMHmgnd35SRl1m5fnjCwgthf4eR2y3QWLne7HzsN+Ryd9u2zEUpiunUiKrWW5Yf1bTfVO365vrcuJWUmV9k2KSS21JSV6jtJ2cHMwiKVB7VFZmGb4Z1cYm4BzJM4d5uDnKhL+EQZjDQ2kiMwkhYebIQhneEC37M6fIP4jH/sQ6raCv9A0mM2u4LPJeWqyemkZg4J4hLr88eNW+79neJBUc5TVdet9spJ0zvFJ6kagwqnOZId+rA==',
+  'gmt_create' => '2017-03-21 14:09:34',
+  'buyer_pay_amount' => '2.00',
+  'receipt_amount' => '2.00',
+  'fund_bill_list' => '[{"amount":"2.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'app_id' => '2016080300157350',
+  'seller_id' => '2088102169762013',
+  'notify_id' => '7f7c1fc47b6c2f432a7f0d436324e64huq',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+)
+2017-03-22 15:49:48  array (
+  'body' => 'asdasd',
+  'open_id' => '20880090752527502193511700310167',
+  'subject' => 'sdasasd',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'rmu***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '1231231231',
+  'point_amount' => '0.00',
+  'version' => '1.0',
+  'fund_bill_list' => '[{"amount":"10.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'total_amount' => '10.00',
+  'buyer_id' => '2088102171379670',
+  'trade_no' => '2017032221001004670200120680',
+  'notify_time' => '2017-03-22 15:49:48',
+  'charset' => 'UTF-8',
+  'invoice_amount' => '10.00',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-22 15:49:47',
+  'sign' => 'gFt/3n/Xo3HhCJQtCJV3oNRYo71lgqcXUZLy+qwtj1nOpeyhTIE0aZQ2RYgmUCpZpA3v2YMZhi8cOIkG24R9v2R6S4GYnrkCAGRTjl+4ue/DCT8xSARRg/XlPZzJlH8Pr6iy3DrV2zCe2nULBWhlPlCw4Bd4TFcMuAxETA5/Cy/s6JQgBvCjMJGUdeXilgti6JnFs/EKSCoH5bpsDsCuGL1cQtKv98wT0Tfp6ZfnC8qL7ZbeM8YL/Pdl8AuIEioQWn87q+OsrQbCa4SXETVChOriF2NHqqwhhtXqMJjPnMtG1iEuCrehZ+owFV1CJ7zNQgWRhnbbY9hrIUseugOKoQ==',
+  'gmt_create' => '2017-03-22 15:49:38',
+  'buyer_pay_amount' => '10.00',
+  'receipt_amount' => '10.00',
+  'seller_id' => '2088102169762013',
+  'app_id' => '2016080300157350',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+  'notify_id' => 'f3ccaea3e00a72c218a66abd3a34a95l66',
+)
+2017-03-22 16:06:51  array (
+  'body' => 'asdasd',
+  'open_id' => '20880090752527502193511700310167',
+  'subject' => '测试',
+  'sign_type' => 'RSA2',
+  'buyer_logon_id' => 'rmu***@sandbox.com',
+  'auth_app_id' => '2016080300157350',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '2012458715',
+  'point_amount' => '0.00',
+  'version' => '1.0',
+  'fund_bill_list' => '[{"amount":"60.00","fundChannel":"ALIPAYACCOUNT"}]',
+  'total_amount' => '60.00',
+  'buyer_id' => '2088102171379670',
+  'trade_no' => '2017032221001004670200120681',
+  'notify_time' => '2017-03-22 16:06:51',
+  'charset' => 'UTF-8',
+  'invoice_amount' => '60.00',
+  'trade_status' => 'TRADE_SUCCESS',
+  'gmt_payment' => '2017-03-22 16:06:50',
+  'sign' => 'G0zjAWv/L3IsDnkkJVeCOYIH4LWzzY5AlzCxsbT5K8IxLyIxt76b8DJDpPlJcGbZ61davq2AYUGG6tbUCK+FW6Aabz0/6j/73Ch6LOfsqxZV+O6Xglu5q7ehj8FA3uDslOt85wlp65bOmf2o15cauem5M2BggRNXiyKw7TM/s38cSQqDCqs2xrlXuQB7Z3B/n59c7+KiuxM3237924fsbcxJRIxf6wVpxY6B290uGLgatc8F6IWZ1fdIMw2rWEtcNe8OWKuFnB8UdYxMIV1UwLfvZzxyLDABXoWUT+o3mqXhOEdoilqDRPQgrPHhxzCTiRk4gm3xHv+w688vL0Q8bA==',
+  'gmt_create' => '2017-03-22 16:06:44',
+  'buyer_pay_amount' => '60.00',
+  'receipt_amount' => '60.00',
+  'seller_id' => '2088102169762013',
+  'app_id' => '2016080300157350',
+  'seller_email' => 'xbpxao5108@sandbox.com',
+  'notify_id' => '96adc7e752d591a8b6d797151e35dafl66',
+)

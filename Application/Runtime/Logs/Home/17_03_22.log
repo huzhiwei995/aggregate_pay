@@ -1,0 +1,739 @@
+[ 2017-03-22T00:01:17+08:00 ] 220.181.108.76 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-03-22T09:10:58+08:00 ] 140.205.225.188 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-03-22T09:48:09+08:00 ] 158.69.25.178 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2017-03-22T11:44:30+08:00 ] 64.246.165.190 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-03-22T14:32:17+08:00 ] 183.14.175.97 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-03-22T15:11:12+08:00 ] 183.14.175.97 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-03-22T15:34:31+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-03-22T15:34:50+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+
+[ 2017-03-22T15:36:10+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-03-22T15:37:38+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-22T15:38:32+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4b/a0/4ba0794564621c03e60d148045a6cee1.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/18/03/180395d59aed45c6f522ad5d3f09aed5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/21/48/21482c74aaaa6024cf0c395d410773b5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fe/a6/fea654dea45efc742f6994eed51e5077.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1f/52/1f522ebc16f371c28127683533da12d2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/17/19/1719b1a14be1edc75eec3441a9d15f99.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e2/2f/e22f1a97837960725393f4aad7712d70.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/68/57/68575cc85364334608697cfb830aa7bb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bb/3c/bb3cfe1016b0fa11169a3880dd06614a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c1/9e/c19e87f56f505fdb1dbe24d722598e70.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/97/2e/972e860bdacd6518b6ee3730a1b635a9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2f/c5/2fc50ee2f479934276b5fe919962ffdb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/df/0b/df0b789f861abc24be1f4043ce656c0d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/93/cb/93cb0d96c49888c308636732f821c374.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/15/90/1590f8f3a8ab2ab1154d22acf184fcd5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6f/a5/6fa593a48aa5c9ca23c1fcde3089431d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2d/25/2d255b4f598a238821318d7fe6972ca8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ca/3c/ca3cc5a98d5c3e730ec45d0e42118c5f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/25/04/2504d26879193d7aaf388db82c65567c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4d/41/4d41d17666a528518669ff73af617917.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e4/23/e42300bc90418d7651e5c021dc5f9465.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0d/89/0d89750f61f62d76720e049f58fe6678.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/17/c9/17c99c5855a8a2883fa412b4838b1849.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/37/b0/37b0f729e85fc842c561ba2fb3e4a3bc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0e/6c/0e6cb980fc0773cb0119d6c77aca64d9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/dc/26/dc2610d1675e44a069bb2d58757d8b77.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8b/57/8b5791c6b505d679945974e53347c8e7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/26/5b/265b33daa2beaf6a2e1a74a3cddbe428.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ce/79/ce797e46d053be09eca52e06d1b791e4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/93/0f/930f00ee253cb39ee831ca8635d9147e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6e/f6/6ef627e90c8a156d68fa3fb215c0041e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6d/9c/6d9ca4a775502df7aa923d4a7e199701.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d0/c1/d0c13d97af68ad3f15f0172726736634.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/67/6e/676ec070cbcc2e084f2508666fd85639.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/42/38429aea458254cbaac95763be25d502.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4f/8f/4f8f2e6a91a0acaf4bc634d2c7b182eb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bb/93/bb93cbf53e7ba1148f801f33a05589e4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d2/26/d2267bb88a61091b2bc4f0a736d9f1c7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6d/17/6d17772a89e06344cbdb819dfffa7f49.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e4/bd/e4bded50b3faf1a7a9dfb09a2b4683a2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/44/ed/44ed9be8989929759a99d5152cf688e7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ec/59/ec590ead3a06206905122f6c45dfeb43.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ea/14/ea14d4648f8237e149e409dcbd697130.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/97/bd/97bd0bc056548d286d3b82434ed7f734.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ba/65/ba6530b4fc96005e88e54aae837f6cfc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8c/44/8c449c2fa746c02b8066606c2e52c754.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1e/a7/1ea76c544407262f7642a28f43c27be5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b2/02/b202e423265d3a564c8bbc332b55390b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bc/18/bc18f0017c630ebc24c2ae301f3c4ec7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3d/9f/3d9fd793d84d1d87f7bd2027ea05eb97.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/42/32/42324bea814ff235a10e4d928aacc4c4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/79/42/7942a3c8c0a94d592ecf5a01e4cc1755.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c7/cc/c7cc975a0c2dc7dc53bcc1acc1a79b4e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d6/6e/d66ef7f2839322884cf3959776253a94.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0b/b6/0bb634422367cb9b40c9c3b0ec774477.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/94/9c/949cef9f310ba5f1c872a46de2cb0bf5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0b/2d/0b2d3ff31eb99a1390f40587efa22c21.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f1/be/f1bedef564cc4dbf8b39413f471a291c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/98/49/9849f98b3975ada6a2412b736739ffdf.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e8/06/e80635c2a521d05a71427a8df8c308ac.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4a/54/4a54dcb51230a26cf2b998b2f5e4fc11.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2d/a1/2da188a64fd80770dbbecf7785a25713.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/29/14/29147342a3a5c39ce161b2f81b0d7b1c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/66/ad/66ad6f95038dd42002c1d5893c25b535.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/60/9b/609b5690bb38d22abfd1574daa20a4ec.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/00/4a/004a464707d2d29665f4d845fd042e94.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4f/b8/4fb878a20ab958a946a3c0e5d65d42b6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/6f/386f1193d97aab7ecaf3c91e2174821f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e0/74/e074e5c68a5213cbc8aeb3fc33a97d37.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/cf/1f/cf1f43294bc01cb5a3c8807c2f0c207a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f6/6d/f66d2d4c9f9c021a51ea30e5c057e9b3.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/08/a8/08a868dc9f331c52c10472fa6cc45347.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1f/72/1f72673f89a2c9e6fd0c4db898fe2661.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9c/b0/9cb0fcc6272cb2392fda2767df7aa2cb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/02/d5/02d5a9c0c11bc1c6c3c103ae105323f4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bb/ab/bbab46cc94e239e66315aa9801d117e4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a5/9e/a59e7b07446160c8bd8d84e1832b7d4d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/aa/0c/aa0cdedc3120751818430dae8aef0218.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/eb/ed/ebed9c881718ee4c2fb9bd7ab034fbe2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/86/e4/86e4a6a03331f9eb42bb61b2bbccb9ae.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/94/a4/94a448d34da6b15a83b5c829ad5c8ee0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a2/17/a21705e5435243cf6a22a78256f0f00f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/08/2f/082fd75bf63b215686158378c085d9f9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/03/ac/03ac63aaaab497d24a035c2da327606c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/72/76/7276fa2b7608bf5ce62939f4bcdfad43.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f1/ae/f1aea920735f688082ccbf456668e12b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0e/c0/0ec0f0ecb084968c732786adc04afd66.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/28/47/2847a586b0ecf4e09202d9b260fc990a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/85/7e/857eefc0be33e3643a040e31d9aaa07d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/37/83/3783e05b3997b005e84df787d6b3d777.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/be/d8/bed8549843c23a897e0b79e9c457401a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3c/2a/3c2ac5b85be0b71fca8fd725ecdd275f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/93/b2/93b229bd67dd9d71f26d7e2cfa0eaff0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/7d/8c/7d8caecdefa1b842684b8909f456a88b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/cd/7b/cd7b41bb95778cb0f3c48364eb0401f5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c5/63/c563e3aa99c36aae0cf32f732e97c601.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/29/02/2902a8c3ad7cf62d7ddada49da8d56c0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/81/e3/81e3dfc612b74f816633d1f9e320eb81.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/28/38281a74c483b5966ce7f308fc695ec8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f2/95/f29560572a70f248d36d1a8b9f9feba0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f6/58/f658c6b89cc160a9269a29f7af279f97.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e7/28/e72875533e3a8ffd1c60e946b00da062.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1b/0b/1b0bbd34449bce6b24f67555ae8aa08b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a7/2c/a72cbf10071e5270c1d8e2f083b5942b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/67/67/6767c701237d1ef36d20b770cd0e0210.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9d/95/9d957b7aa991e728ab0b7ce70301c8dd.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/49/86/49864f5a150ed270e66a629f54642754.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/78/c9/78c94b86dff3ca037ee7f4b2ad5bc69a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4e/df/4edf91797322aa2ce99a15a3c6bcb69e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c7/3c/c73ca74d5450894f8c47c47cf8b13653.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/54/66/5466d275bf0393789c27ca31e9e550a4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/eb/59/eb598d22954da1773dbd47bdbfe73e87.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/76/86/76864f5b8cca0e14874246b5580d8450.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a7/54/a75497eb8393324cdbd4842c7823f63f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/02/15/0215e496ef16eccfd6195c993c2aa6ad.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/88/f4/88f40a19f97582a1b04924c5c260da34.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b6/2a/b62af14a6ee3181c52ccf15127dd212a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/7b/34/7b34dffcb4c20eb5ce3f4086a80f620c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/11/5e/115ef7ac48e2e2bade62d06a187245be.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b3/dc/b3dc2d557bd36f7a3a501d13cc69d435.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/af/9a/af9a025de8d7b1d068f855d56d0ed608.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/66/e0/66e001db1f0589302d43dc14c21a4a36.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6c/1f/6c1f0481c446f13310e3f5dc5be5e268.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/4e/ff/4eff7157c9190a1b538edba0df60b608.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/7f/8a/7f8aa6eb369d8ee8fbb1e239f13976bc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6e/75/6e75ffeb3ad37d795f50b227106a0d5f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fb/58/fb581972d2e799888be3cce77bd3b37d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2e/b2/2eb202363bbd1f29f293f8b3ba0fdbfc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/5a/5b/5a5b86685de6018259110217fde34706.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/db/51/db514e0f74265da7c829e800cfee1a1a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/28/e7/28e755d3d60c64e9b074584db94b1989.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ed/3f/ed3fbb0ce3191aed9eaad68bfa10693f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b0/db/b0db779a1ab02df83b96d407ee58100e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1b/a3/1ba364f4a73bae0d76efc6651d0be786.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c5/d3/c5d31b7f8ef4b55af7c967ddcfc32620.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/18/af/18af11aef7c20ed336e807ff35634d7d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b5/1d/b51dad3876594043c3957f022d269b49.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2e/5d/2e5d98c4e97ad1681cd3481c38e2e78a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f3/31/f3310c8f2f843e0a0a8f0d71a2c85dbb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8e/74/8e747fe25d40d8f104542b6dd9e68908.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a1/3a/a13a91943fca9dd78c7561476f68d3b5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ca/65/ca658961b5d5b33c390c644f0870448f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/cc/ed/ccedb7d52e41b3406b174be4c24f408f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8b/1d/8b1dcd35215b64bc91c3c3f234cebb1e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d7/e9/d7e97d6af3d032dd1488fa1cbc9b8ac6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a0/b8/a0b8c73f1e6663963140633e7cfff3bd.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bd/ee/bdee157eaf131c2dd54fbfe100b9c2f0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/32/e7/32e7e9bf277750cec69a880b3891ebd7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/78/27/782727b3d196f2e2d31a0980ba5d41c5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3d/fa/3dfad1e81f6175bbd71986917c7ac629.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/eb/b5/ebb51c3eb059ef8b129e267be0ecf026.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ed/33/ed33bf0f6330b52cfe5561f7dadfb0b6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8b/48/8b485aa22cfcd882f7ea50edc4cfd953.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a7/85/a7851daac33aac46da3f157f9d04aa32.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b8/6f/b86f94dddf1624a755b14ec30446ca48.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/03/88/03886e2708c5755f480528e76e35758b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1e/55/1e555bdc5e59ca09e65478d8b9afb061.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/54/7d/547d6336e2f5191b0a565c768ec4689f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/35/f9/35f961959d9af06f6ddd31e3d884ed83.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8c/40/8c407fd14ff64314925e0b830e93ddc4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ab/62/ab623b2b414f4429775118508282629a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/60/f4/60f46bc39cf84faa5d504572a43247ed.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d2/c6/d2c65cb0ca7c5c9c1a439e712abd6949.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c6/0c/c60ce05c845a2bcde98e5f751f9fca6d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e1/c0/e1c0d1973cb3d3d84d01d3be67358cbf.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f6/57/f657c9f6f06a66efa7c2e9f4406fb46b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/46/ac/46ac9e002f56f90e832ebe063fc0a10a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/24/b8/24b8e842aabbb973dad616ece0df2f2a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/69/2e/692ed4a2987cfcce645ccc0bb969d01c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/07/96/0796be3ecf0c6dbeb25443bf2b4932f7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ea/b5/eab51b4a2a8cb2ed0a284dcb08d2a2fe.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f4/24/f424beac308397bad9c9a010cbdcd2fe.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/00/d0/00d001b50b54a018bb8a835aa2110a81.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/49/47/4947ababac04f5d26724183e3e25acb3.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/13/8b/138bf6aa209d3757ec1639dd795eec16.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/90/8e/908e1da923cb63e22cbd2931e6895ad0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fa/09/fa09d953b80b38b9b68549af9c1bb455.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/16/fd/16fd155f925e71de099f48bd32dfabf9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a7/c8/a7c84e1e441bf0dff923ea3a250617ce.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b5/d7/b5d7406dc8ba354e703dd1060ad0ef73.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/71/46/7146b086d90da9333585e837af55a13d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/26/7d/267da57f4e096d67ee7fb4222ac5ec45.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a6/dc/a6dc5b52e85a160b11e78ea76bfe91c1.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/11/28/112841b03cb57953ec7e120350a69c8f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/98/c6/98c6f79126dadaf202154693bfde3e85.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0c/bb/0cbbe2f3509d9f3ab2741e932a89e678.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3b/62/3b62ff5341e1eb14c6d18ae6398ec5af.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/30/fb/30fb55cc7986bf5925a501c72aa1af78.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a2/fc/a2fc6d2d77878164e1158249467ceee8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/63/28/63280150fb8fd348797364233353b7ef.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a3/d6/a3d6e784927f1bd9e00344de31c595bc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/37/d1/37d13bff2e2157f24519808c5a778217.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/47/06/470679bd2c6e373c8ff80c40bb63e6ba.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3f/41/3f41559b2aae88b01ebfda9450f7e37a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/62/ec/62ec2899815d1ee9694b31a4a889024b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d7/a2/d7a2fc4dad3255d80210907286c7a6c6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/26/fe/26fe6b30cf3f3f8c7f58913deefec842.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/19/1e/191ee016778f98f1b080d6af299dcafa.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/07/9b/079b925b078e2042c920d7d8d874f5a5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/09/8f/098f653d03fa133f6018d0e069caf67a.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/86/39/8639362deb76bc2a5dd5d6012b21a573.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/34/b0/34b0055ec85a5dc25aa8e4a8b5cab997.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/80/be/80bed33388859542b446e67328fe962e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1b/eb/1beb72c12484c03b7b4e7b86948ca029.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b3/23/b3231e3909f2d39731b567b37618881c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/13/5f/135f1b58e69a86ba4c87821eb1432b7d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/88/7e/887effd9fe75df8848d6e3baf8231069.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ff/30/ff30094da955148a1aa164848614755f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e0/69/e0693066dcaa2827a0a5ec424cc5c297.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d5/32/d53290ebdd70b77d92ce17dcc4f9af52.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/13/58/1358067cd22110990ffa0c66d079ad38.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8f/4b/8f4bee40983de1621e00adf783923c21.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a6/d0/a6d01bfd1bda3c6a72ec45d69f45b7f0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/08/12/0812cb8a609802dcde85a465660d808c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/5e/d7/5ed7e57df1cddab85218c8c73de544cb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6a/34/6a34744d71d79945dad186a46a9d9f10.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/43/eb/43eb62a63cf2ff9b6a3b9fd1d841e2ba.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/97/70/97702b965e576ec1a0bac1a793c31249.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b2/d0/b2d08095265562910640d0246287f048.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c3/d9/c3d97d7c011844ccc6be1c3ef9d6add5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1b/0e/1b0ecffd5dfe11351d4ee12803e3aaf2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f9/f7/f9f71bfff479055799d8db88140753dc.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f8/cf/f8cf1f8986fb3b970abff920a5599389.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0f/99/0f99908ee394deda04a83eba9c379519.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/75/6b/756b0c85cc42a64d021ab3f9367d43f3.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/91/45/91454a8098444991b8f95d459f9dc0ab.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/04/17/0417d22f98af14608db081cbbeff0048.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/77/9b/779b9aabf8ed4ad29a763271b74b716f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/16/41/1641a73ca25c1636cefbec447107f8ee.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/86/51/8651577e122ed5355e6f982ef5c73943.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1f/89/1f89ad07639130811ea4f4cd7f53f84c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ac/40/ac40c2c16930879b80895b1240f5b0b4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9d/a6/9da6f2df8cb8d1852a3dc561b48580fa.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/75/83/758391c64faa55a0dadc1c49b32bb1ed.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1b/c1/1bc1e78e54735410cf3817a6da2f00d1.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3b/73/3b73f0df6a6488c7c8704ded41c067b4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d3/31/d3319879fd04bd398532407148ae10a5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b0/5b/b05befa48c23934b8a6610c5f4c6c09b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/eb/b2/ebb291460919d406f7c33d245f617bd5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3c/19/3c19dc5f1850880fb7be97f32d5d1a18.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1f/25/1f25adcc0f97e1311a733c52cd5bf250.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/66/a6/66a6d3911265349860b805372e5e67e8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/21/a5/21a5ef095371e3203917d10b546f2c11.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c5/e7/c5e7298901995764c3ec3de4775e6f7c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/35/7f/357f23f77356d888dedde5371ccf03ee.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ac/84/ac84d386abeb085384d8baf6cfa8513f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b1/4a/b14a22c47994db302091bfcb7c7bfbea.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b3/e6/b3e69e16419a221657af88408334028e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e7/23/e7237aabf201442ea3a6b858505bbf46.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2c/53/2c53c91795bcbfec07b5d2b60645c582.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9a/97/9a97bfa5375b96a051ebb0d9df1583b7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/81/6e/816ee9acd2a0805ed022a20887649288.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/72/40/7240bed060536d424934a26baf39737e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0a/89/0a899e6b96c496393f337a98f26dfa4d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b2/57/b2572a92bed4f8cbe8d43599550793c3.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/66/ae/66aeaf36b88c311aa3ab59eeafadcfec.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3a/66/3a66c2e22259e27bc3e6232942ff3055.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fb/c2/fbc264efcab29059e37193b522d01707.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c7/30/c7304705d4b314e7170cad2d52c912b3.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f8/94/f894861793b814ae8759a40cfef033f5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/85/30/85300c9c404275e9c5418b1b8dbdb895.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b6/6a/b66ad510e737d777f18064b9c5a2bd82.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/08/38/08383513a37a7eb0d77010a6a3d32d1b.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/08/38/08389a49ab991cf2b211ecec0a849e72.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/54/da/54daa3673b8bf9c7d57e5276f0131974.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/1a/381a94c21bdddf12ccaf651b169648f2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bc/4e/bc4eaa93083fb7a269327288abcff439.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/74/10/74100d0ea9bc17d615f1dc5ad01685f1.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/09/13/09136feebc443f98643ca8a9478ac492.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ad/9c/ad9c2d71dfa8d1fcb5c7484122ddd5cb.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/75/24/75245ff06aa669d5c88e806f319740aa.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c2/3e/c23eecea253b5f6665fde3c04414c335.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/23/e4/23e4aa579ae961263f37e78fcb51e841.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/5f/ed/5fed9b27177be547563a4079d90482b2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d3/d9/d3d95e751bd9e383387408ef3b620a34.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f3/c3/f3c3eae7c129fcff41aceca24e2a89e8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/37/d4/37d48d6c1b06b0b2caa8b57d309cf718.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9f/7e/9f7ee2b26cbdd58387de40885d18b0d5.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6e/74/6e74b46afaf66e333d869b65daf4a68c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/06/8e/068ecd3591c6fdf2d5536355693d24ea.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/06/38/06387b1e4a30edfcfa7ef8d9a8e8a01c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/17/66/1766e891669d99d2d03a178d0f896811.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/e9/38e9d957cc770bb72cc95686371e3570.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/96/c1/96c17586bb54b8d1a992cb0672cad628.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6f/30/6f30b237e20690a0859979dd4cc02c47.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/7d/e1/7de1d6733174d9f1e9fdba5694772f49.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a2/f7/a2f74885843cfbe7da59202757992278.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e1/b3/e1b32bf86ec78fb270170b9a64fac856.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/8b/dd/8bdde3b3666f7ff49eb02796fd8052c8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/e1/8c/e18cfc48d022159350fde28fd44e791d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/bc/b5/bcb5ff5708c84b769f6ba396ec408e37.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b7/10/b71059dcb2c32433092f68356e6b93ae.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a6/2b/a62b9ef0c1103c8b86fae9da467e9e32.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3b/a7/3ba7d803251e10679b0145a32a355b99.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/96/df/96df4d28d1b1ea53b66bf913668667ed.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f3/66/f36675b0912df30dfe29a974801bbe41.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fd/0e/fd0e33f5973565870901aca178bfdc91.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6f/25/6f253c759264fe708bb9a0af77dca9d9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/56/4d/564d1ce7edbfd2f7722c7d4c72165de6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/18/ca/18caf2d63f6cd6e8eaa681ba3395ab92.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/5e/1a/5e1aa2c825413d8248b71beb0716c21c.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/af/8a/af8a9a4f602c92420db234da5d7ce9a7.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/09/ce/09cee4aa8afd6019f8636b1d7a31d798.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/c4/2d/c42dfb3c5e4d22f166bbf0bc60d9e058.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/74/5a/745a54332e36d63215cc31d45a905cd4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/1c/2d/1c2d2ae5dc144ca3d192d1781692cdf6.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/49/2d/492d508b3b3fce215d074ce1849b62fa.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/21/bc/21bc9e1a8f7a64018ace95bd32805bf0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/cb/01/cb016d6fc9ebf16acd196a835bd788a8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/15/87/158740419e2ccd671a63abad0ac8d8ef.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ed/fa/edfa84f7ad878862e3332a4049b3b578.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b4/fd/b4fdae021f0f5cf6a6428988d78d9bfe.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/20/2f/202f7d7b039ca560d79605800453fb59.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/df/2c/df2c31fc16e877106b5d393d7823a24f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ec/00/ec00b7815e2ad89f57c96877c8409747.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/3e/bc/3ebc4b4820218069b80b17ac0e20f27e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/97/48/974829179d33408b5718f9a2826bef08.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fa/78/fa78a5a66b1e0036e9bb56521dd31ae2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6b/ab/6babb9fc970c1d7f4c10b6ffa453d6c8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/0e/7f/0e7f7b85aa32d8da0e9c628c090f7e14.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a8/4f/a84f11350a74af58cb9b62801495b467.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/76/ee/76ee72f30c82c5251c62a4732a782f3d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ea/7a/ea7acf267d5995db36da40338be20b31.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/31/41/314122a4cfae3e27514b67f4777967e0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/f6/c9/f6c9f48daa4ed4d28dfbf90442c2ce4e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6a/3e/6a3e2eddaea39c0c92537d9cbd5ce784.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/dc/c6/dcc67d743bf03dc2b329b6bdb4bef295.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fd/0a/fd0a66f5644157a97d0167d276bf187e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/78/ff/78ffb44eca86f8a53311671eade508c4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/a4/db/a4db6d11f3ec86cc35f4d7bf3be19aea.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d7/0a/d70aeabd3c461b0b55efaae65dc80a05.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/58/8a/588a81d18927dcbf523954d6bb8ec6ed.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/5a/da/5adadab04bd7886057eb54a262b79ebe.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/88/25/88254f6daf8b174244c7365411f323c2.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/9f/e9/9fe9931c202d396fa3280456e78a19b9.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/52/1d/521d89d393500b9aa5f0561d71f7ab21.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/95/b2/95b254f4f33e33ba35787c0ee9a196ab.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/55/f1/55f178f7e7490c002a4adbe791916623.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d0/1d/d01df795194cf501847cbaa4e37ed2f4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/90/8e/908ea896643e5a60523f739d57eafd12.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/fb/b7/fbb73a0ef0c3ccd1148edfaacdb0d54f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/11/75/1175b521e51676085b8dbc1d6d6c19d0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d0/d7/d0d7da0890ed44cceb279f9facbfb0e8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/af/23/af23ec19b6f8ab93634b2650740dd4d4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/38/de/38deae4b82fe69bd0a19969c184b13fe.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/cb/8c/cb8c2f9d111871e7dfdd51215619f617.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/02/ce/02ce382737b234071e19f135adf7f073.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/44/25/44255450bc7c8c81858296c3f27fa6ea.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/b9/32/b9324a606158bb2733063e13d26cbf38.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d9/a3/d9a3f7a1ea6f651adf5c2eb2d5bf2df0.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/80/7f/807fb22601d29882b268ee3715a88140.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/75/1d/751dce0760831cd7b77e4973472e12e4.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/55/2a/552ad5283948926e87e2ccb3b291248d.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/6c/e5/6ce52a44c963b267244dc585c4bc0655.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/32/8e/328e35e656f203954d437100844d593f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/2c/7d/2c7d7a034a831e71a5f6d8c228b88b13.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/d7/bd/d7bd6bf7098ada250aaeaaf748d16bf8.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/27/87/27875a701b982bb7bbd165361f96f2de.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/07/d1/07d106e74883ed9d36ffe44af8710d9f.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/32/f3/32f3ce7962b9f0c223d200a3dc2d1d08.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/ce/4d/ce4d68a14bd0d6fa9f90f39dc153bf7e.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for C:/tmp/LtAutoloader-token-cache/31/b7/31b77f9cbfcf79ee6a6173e4653d3221.php C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\lotusphp_runtime\Autoloader\Autoloader.php 第 277 行.
+
+[ 2017-03-22T15:39:21+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [8] Undefined index: MaxQueryRetry C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 62 行.
+NOTIC: [8] Undefined index: QueryDuration C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 63 行.
+ERR: QueryDuration should not be NULL!
+
+[ 2017-03-22T15:44:49+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined index: MaxQueryRetry C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 62 行.
+NOTIC: [8] Undefined index: QueryDuration C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 63 行.
+ERR: QueryDuration should not be NULL!
+
+[ 2017-03-22T15:46:37+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-03-22T15:49:48+08:00 ] 121.0.27.3 /index.php/Home/Index/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-03-22T15:55:46+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:57:10+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:57:44+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:58:08+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:58:25+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:58:45+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T15:59:18+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2017-03-22T16:01:28+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+
+[ 2017-03-22T16:04:02+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001093s ]
+
+[ 2017-03-22T16:05:07+08:00 ] 183.60.15.14 /index.php/Home/SaoMa/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-03-22T16:05:43+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2017-03-22T16:06:18+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-03-22T16:06:51+08:00 ] 121.0.27.3 /index.php/Home/Index/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-22T16:08:27+08:00 ] 183.14.175.97 /index.php/Home/SaoMa/qrcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [2] file_put_contents(log/log.txt): failed to open stream: No such file or directory C:\phpStudy\WWW\budaiqb\ThinkPHP\Library\Vendor\dmf_demo\f2fpay\service\AlipayTradeService.php 第 359 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000942s ]
+
